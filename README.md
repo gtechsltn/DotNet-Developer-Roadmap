@@ -1,13 +1,5 @@
 # .NET Developer Roadmap 2023.
 
-https://medium.com/@techworldwithmilan/net-developer-roadmap-2023-c1a9a102748e
-
-https://levelup.gitconnected.com/7-principles-every-developer-should-know-a7da7ed5700e
-
-Final Part – 70 Advanced CSS Interview Questions with Answers and Code Examples
-
-https://medium.com/@komeil.mehranfar/final-part-70-advanced-css-interview-questions-with-answers-and-code-examples-8e17b6947175
-
 This is a step-by-step guide to becoming a .NET Engineer, with links to relevant learning resources.
 
 If you want to learn more about .NET technologies, be sure to subscribe to **[my newsletter](https://newsletter.techworld-with-milan.com/)**. 
@@ -649,3 +641,35 @@ If you think the roadmap can be improved, please open a PR with any updates and 
 ## Author
 
 [Dr. Milan Milanović](https://milan.milanovic.org) -  CTO at [3MD](https://3mdinc.com) and Microsoft MVP for Developer Technologies.
+
+# References
+
+https://medium.com/@techworldwithmilan/net-developer-roadmap-2023-c1a9a102748e
+
+https://levelup.gitconnected.com/7-principles-every-developer-should-know-a7da7ed5700e
+
+Final Part – 70 Advanced CSS Interview Questions with Answers and Code Examples
+
+https://medium.com/@komeil.mehranfar/final-part-70-advanced-css-interview-questions-with-answers-and-code-examples-8e17b6947175
+
+100 most asked JavaScript Interview Questions and Answers
+
+https://architectak.medium.com/100-most-asked-javascript-interview-questions-and-answers-part-1-1f151b14f0f7
+
+https://frontendinterviewquestions.medium.com/top-100-javascript-interview-questions-251161e29d
+
+https://www.frontendinterviewquestions.com/interview-questions/javascript-developer-interview-questions-for-5-years-experience
+
+https://medium.com/@ind/30-top-javascript-interview-questions-for-freshers-2023-updated-da1ba4488ef
+
+https://medium.com/startit-up/common-javascript-interview-questions-and-how-to-answer-them-6b76671a1684
+
+https://medium.com/front-end-weekly/javascript-interview-questions-with-answers-6194455b091a
+
+https://medium.com/@code.origin/45-javascript-interview-question-with-answers-b0b56aea7107
+
+https://github.com/blueimp/jQuery-File-Upload
+
+https://github.com/ankitdeveloper/jQuery-File-Upload
+
+https://github.com/ankitdeveloper/bootstrap-nav-wizard

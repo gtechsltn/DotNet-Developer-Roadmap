@@ -1,5 +1,9 @@
 # .NET Developer Roadmap 2023.
 
+https://medium.com/@techworldwithmilan/net-developer-roadmap-2023-c1a9a102748e
+
+https://levelup.gitconnected.com/7-principles-every-developer-should-know-a7da7ed5700e
+
 This is a step-by-step guide to becoming a .NET Engineer, with links to relevant learning resources.
 
 If you want to learn more about .NET technologies, be sure to subscribe to **[my newsletter](https://newsletter.techworld-with-milan.com/)**. 
